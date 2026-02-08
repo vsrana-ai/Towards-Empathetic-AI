@@ -1,4 +1,4 @@
-# LLM Evaluation Framework & Expert-annotated Motivational Interviewing (MI) Dataset
+## MITI-Guided Evaluation of Large Language Models for Motivational Interviewing
 
 
 
