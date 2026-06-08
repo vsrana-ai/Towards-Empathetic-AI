@@ -3,8 +3,8 @@
 ### Dataset
 This repository contains the following files:
 
-* `train_dataset.csv`: The original training dataset file.
-* `test_dataset.csv`: The original test dataset file.
+* `train_dataset.csv`: The original training dataset file of 97 MI sessions.
+* `test_dataset.csv`: The original test dataset file of 31 MI sessions.
 * `train_annotated.csv`: The MI IDs and annotated original training dataset. 
 * `test_annotated.csv`: The MI IDs and annotated original test dataset.
 * `ChatGPT_MI_sessions.csv`: 97 augmented MI sessions adhering to MITI.
