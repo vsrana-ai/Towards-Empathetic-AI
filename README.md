@@ -1,6 +1,4 @@
-## AnnoMI-STaR: An Expert Annotated Dataset and Evaluation
-
-### MITI-Guided and MISC-centric Evaluation of Large Language Models for Motivational Interviewing
+## MITI-Guided and MISC-centric Evaluation of Large Language Models for Motivational Interviewing
 
 ### Dataset
 This repository contains the following files:
